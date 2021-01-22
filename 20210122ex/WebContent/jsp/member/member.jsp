@@ -23,6 +23,7 @@
 </script>
 </head>
 <body>
+<jsp:include page="../common/menu.jsp" />
 	<div align="center">
 		<div>
 			<h1>회원가입</h1>
@@ -68,9 +69,6 @@
 					&nbsp;&nbsp;&nbsp;
 					<button type="reset">취소</button>
 				</form>
-			</div>
-			<div>
-				<a href="../../index.jsp">홈 가기</a>
 			</div>
 		</div>
 	</div>
